@@ -17,8 +17,8 @@
 > | ---- | ---- |---- |
 > | 10(+0)| 8(-1)| 8(-1)|
 > 
-> #### Actions
->**Scimitar.**  Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. **Shortbow.** Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+> ##### Actions
+>
 > ###### Other
 > | Type |  Stat |
 > | ---- | ---- |
@@ -27,3 +27,6 @@
 > | Passive perception |  |
 > | Languages | |
 > | Proficiency Bonus | |
+> ##### Traits
+> 
+
