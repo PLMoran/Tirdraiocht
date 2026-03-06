@@ -11,10 +11,14 @@
             "id": "1e459b74e213df94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02.Campaign/Sessions/Session Prep/140326 Session 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "140326 Session 1"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.Campaign/Sessions/Session Prep/140326 Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 140326 Session 1"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02.Campaign/Sessions/Session Prep/140326 Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 140326 Session 1"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02.Campaign/Sessions/Session Prep/140326 Session 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 140326 Session 1"
             }
           },
           {
@@ -208,17 +215,27 @@
   },
   "active": "1e459b74e213df94",
   "lastOpenFiles": [
+    "[01. World/Beastiery/Goblin.md",
+    "01. World/Beastiery/Goblin.md",
     "02.Campaign/Sessions/Session Prep/140326 Session 1.md",
+    "[01. World/Beastiery",
+    "[01. World",
+    "README.md",
+    "z_config/Token.md",
+    "z_config/Plugins.md",
+    "z_config/its_alternate_themes.md",
+    "01. World/Places/Caer Ciarán.md",
+    "01. World/Tírdraiocht.md",
+    "01. World/Places/Deepwater.md",
+    "01. World/Places",
+    "z_config",
+    "z_Assets/Goblin.md",
     "Embed[[01. World/Beastiery/Goblin.md",
     "Embed[[01. World/Beastiery",
     "Embed[[01. World",
     "Embed.md",
-    "01. World/Beastiery/Goblin.md",
     "z_Assets/Generic Stat Card.md",
-    "z_Assets/Goblin.md",
     "z_Assets",
-    "01. World/Tírdraiocht.md",
-    "README.md",
     "02.Campaign/Sessions/Sessions/dd-mm-yyy desc.md",
     "02.Campaign/Sessions/Sessions",
     "02.Campaign/Sessions/Session Prep"
