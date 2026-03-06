@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "cac4ba899ef43d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f4b5545b659ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e459b74e213df94",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bdc8ee8f760253f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d347334da9a3e0c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826f34fdef56d209",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf758ad3831429eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9eacbdf789773c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25ea034281a4ce55",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e037bf2151a4791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "511e39977cfd8fa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f3e6167b02adb90f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dc4f96305284d14a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "377f7527e6c636a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5cac71967cc1ca9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "38c6cc98bf0e9a89",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "a908ac8f2a038126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93f095ee1c8d9d2",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 592.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "1e459b74e213df94",
+  "lastOpenFiles": [
+    "02.Campaign/Sessions/Session Prep/140326 Session 1.md",
+    "Embed[[01. World/Beastiery/Goblin.md",
+    "Embed[[01. World/Beastiery",
+    "Embed[[01. World",
+    "Embed.md",
+    "01. World/Beastiery/Goblin.md",
+    "z_Assets/Generic Stat Card.md",
+    "z_Assets/Goblin.md",
+    "z_Assets",
+    "01. World/Tírdraiocht.md",
+    "README.md",
+    "02.Campaign/Sessions/Sessions/dd-mm-yyy desc.md",
+    "02.Campaign/Sessions/Sessions",
+    "02.Campaign/Sessions/Session Prep"
+  ]
+}

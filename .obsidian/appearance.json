@@ -1,0 +1,7 @@
+{
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "ITS_alternate-themes"
+  ]
+}
