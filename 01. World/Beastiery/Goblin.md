@@ -1,6 +1,6 @@
 > [!infobox|left]+ Collapsible Infobox
 > # Goblin
-> ![[z_Assets/Goblin|Goblin]]
+> ![[Tirdraiocht/Src/z_Assets/Goblin|Goblin]]
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |
