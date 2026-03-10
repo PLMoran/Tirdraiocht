@@ -1,18 +1,7 @@
 {
   "callouts": {
-    "custom": [
-      "direction"
-    ],
-    "settings": {
-      "direction": [
-        {
-          "changes": {
-            "icon": "lucide-scroll-text",
-            "color": "68, 207, 110"
-          }
-        }
-      ]
-    }
+    "custom": [],
+    "settings": {}
   },
   "calloutDetection": {
     "obsidian": true,
