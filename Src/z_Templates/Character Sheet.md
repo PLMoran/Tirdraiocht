@@ -1,22 +1,29 @@
 ---
 level: 1
-proficiency_bonus: 2
+proficiency_bonus: 3
 ---
-
-```event-btns
+```badges
 items:
-  - name: Short Rest
-    value: short-rest
-  - name: Long Rest
-    value: long-rest
+  - label: Name
+    value: 'PLAYER NAME'
 ```
-
-```healthpoints
-state_key: my_character_hp
-health: 28
-hitdice:
-  dice: d8
-  value: 3
+```badges
+items:
+  - label: Class
+    value: 'Druid'
+  - label: Race
+    value: 'DragonBorn'
+  - label: Level
+    value: '{{ frontmatter.level }}'
+```
+```badges
+items:
+  - label: Initiative
+    value: '+{{ modifier abilities.dexterity }}'
+  - label: AC
+    value: '{{ add 10 (modifier abilities.dexterity) }}'
+  - label: Spell Attack
+    value: '{{ add 10 frontmatter.proficiency_bonus (modifier abilities.intelligence) }}'
 ```
 
 ```ability
@@ -25,7 +32,7 @@ abilities:
   dexterity: 16
   constitution: 13
   intelligence: 12
-  wisdom: 10
+  wisdom: 15
   charisma: 8
 
 proficiencies:
@@ -43,16 +50,18 @@ expertise:
   - stealth
 ```
 
-```consumable
+```badges
 items:
-  - label: "Level 1 Spells"
-    state_key: my_character_spells_1
-    uses: 3
-    reset_on: "long-rest"
-  - label: "Sneak Attack"
-    state_key: my_character_sneak_attack
-    uses: 1
-    reset_on: ["short-rest", "long-rest"]
+  - label: Passive Perception
+    value: '{{ add 10 frontmatter.proficiency_bonus (modifier abilities.wisdom) }}'
+  - label: Passive Investigation
+    value: '{{ add 10 frontmatter.proficiency_bonus (modifier abilities.intelligence) }}'
+  - label: Passive Insight
+    value: '{{ add 10 frontmatter.proficiency_bonus (modifier abilities.wisdom) }}'
 ```
 
 #### Background
+
+
+#### Quests
+
