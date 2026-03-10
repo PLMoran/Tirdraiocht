@@ -1,8 +1,10 @@
+# Template - Group: Military 
+
 ## Overview 
 
-**Type**: Religious Military
+**Type**: Military
 
-**Alignment**:Neutral Good;
+**Alignment**: Chaotic Evil, Chaotic Good, Chaotic Neutral, Lawful Evil, Lawful Good, Lawful Neutral, Neutral, Neutral Evil, Neutral Good, Unaligned ;
 
 **Military Role**: Air, Armor, Artillery, Cavalry, Infantry, Logistics, Naval, Other, Reconaissance, Space, Strategic, Support
 
@@ -17,7 +19,7 @@ Placeholder
 
 ## Profile 
 
-Mic Na Seachtar, the Sons of the Seven, are an organisation that are 
+Placeholder
 
 ## Story 
 
