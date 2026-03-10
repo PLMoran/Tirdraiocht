@@ -4,3 +4,5 @@ git
 leaflet
 style-settings
 statblock-sidekick
+
+BRAT hay-kot/obsidian-dnd-ui-toolkitb

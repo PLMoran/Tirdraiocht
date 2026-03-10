@@ -1,0 +1,47 @@
+{
+  "state": {
+    "my_character_hp": {
+      "current": 28,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "my_character_spells_1": {
+      "value": 0
+    },
+    "my_character_sneak_attack": {
+      "value": 0
+    },
+    "dungeon_encounter": {
+      "activeIndex": -1,
+      "initiatives": {
+        "Thom": 0,
+        "AK": 0,
+        "Jonny": 0,
+        "Hasson": 0,
+        "Goblin Squad": 0
+      },
+      "hp": {
+        "Thom": {
+          "main": 45
+        },
+        "AK": {
+          "main": 45
+        },
+        "Jonny": {
+          "main": 45
+        },
+        "Hasson": {
+          "main": 45
+        },
+        "Goblin Squad": {
+          "Goblin 1": 7,
+          "Goblin 2": 7
+        }
+      },
+      "round": 1,
+      "consumables": {}
+    }
+  }
+}

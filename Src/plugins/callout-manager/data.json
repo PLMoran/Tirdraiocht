@@ -1,0 +1,22 @@
+{
+  "callouts": {
+    "custom": [
+      "direction"
+    ],
+    "settings": {
+      "direction": [
+        {
+          "changes": {
+            "icon": "lucide-scroll-text",
+            "color": "68, 207, 110"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
