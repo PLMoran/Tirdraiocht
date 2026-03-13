@@ -5,7 +5,7 @@ items:
     ac: 18
     hp: 45
   - name: Thom
-    ac: 18
+    ac: 11
     hp: 45
   - name: Hasson
     ac: 18

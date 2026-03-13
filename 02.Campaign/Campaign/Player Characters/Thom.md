@@ -18,13 +18,18 @@ items:
 ```
 ```badges
 items:
-  - label: Initiative
-    value: '+{{ modifier abilities.dexterity }}'
+  - label: HP
+    value: '12'
   - label: AC
     value: '{{ add 10 (modifier abilities.dexterity) }}'
+  - label: Initiative
+    value: '+{{ modifier abilities.dexterity }}'
+  - label: Spell Save (to attack)
+    value: '13'
   - label: Spell Attack
-    value: '{{ add 10 frontmatter.proficiency_bonus (modifier abilities.intelligence) }}'
+    value: '+5'
 ```
+<br>
 
 ```ability
 abilities:
@@ -39,6 +44,8 @@ proficiencies:
   - wisdom
   - intelligence
 ```
+  <br>
+
 
 ```skills
 proficiencies:
@@ -57,6 +64,7 @@ bonuses:
     target: nature
     value: 3
 ```
+<br>
 
 ```badges
 items:
