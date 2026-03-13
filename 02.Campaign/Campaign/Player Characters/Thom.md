@@ -28,36 +28,44 @@ items:
 
 ```ability
 abilities:
-  strength: 14
-  dexterity: 16
-  constitution: 13
-  intelligence: 12
-  wisdom: 15
-  charisma: 8
+  strength: 12
+  dexterity: 12
+  constitution: 14
+  intelligence: 11
+  wisdom: 16
+  charisma: 11
 
 proficiencies:
-  - dexterity
+  - wisdom
   - intelligence
 ```
 
 ```skills
 proficiencies:
-  - stealth
-  - investigation
+  - Animal Handling
+  - deception
   - perception
+  - nature
 
 expertise:
-  - stealth
+
+bonuses:
+  - name: Magician
+    target: arcana
+    value: 3
+  - name: Magician
+    target: nature
+    value: 3
 ```
 
 ```badges
 items:
   - label: Passive Perception
     value: '{{ add 10 frontmatter.proficiency_bonus (modifier abilities.wisdom) }}'
-  - label: Passive Investigation
-    value: '{{ add 10 frontmatter.proficiency_bonus (modifier abilities.intelligence) }}'
   - label: Passive Insight
-    value: '{{ add 10 frontmatter.proficiency_bonus (modifier abilities.wisdom) }}'
+    value: '{{ add 10 (modifier abilities.wisdom) }}' 
+  - label: Passive Investigation
+    value: '{{ add 10 (modifier abilities.intelligence) }}'
 ```
 
 #### Background

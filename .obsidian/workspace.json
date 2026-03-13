@@ -27,12 +27,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Campaign/Campaign/Player Characters/Thom.md",
+                "file": "02.Campaign/Campaign/Player Characters/AK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thom"
+              "title": "AK"
+            }
+          },
+          {
+            "id": "c0a4a5b4c4181ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Campaign/Campaign/Sessions/Session Prep/140326 Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "140326 Session 1"
+            }
+          },
+          {
+            "id": "7b21302d0a9e8f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Campaign/Campaign/Player Characters/Jonny.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jonny"
+            }
+          },
+          {
+            "id": "c1c041b4e13379c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. World Almanac/The Calendar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Calendar"
             }
           },
           {
@@ -92,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "05cab82ee7ef0d0d",
@@ -319,8 +361,19 @@
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
             }
+          },
+          {
+            "id": "faa69b11ae2f5789",
+            "type": "leaf",
+            "state": {
+              "type": "soundscapes-react-view",
+              "state": {},
+              "icon": "music",
+              "title": "Soundscapes: My Music"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -340,22 +393,25 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "callout-manager:Insert Callout": false,
       "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "soundscapes:Soundscapes: My Music": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "38c6cc98bf0e9a89",
+  "active": "faa69b11ae2f5789",
   "lastOpenFiles": [
-    "01. World Almanac/Places/The Western Peninsula/Coill Deargadh.md",
+    "02.Campaign/Campaign/Player Characters/Jonny.md",
+    "02.Campaign/Campaign/Player Characters/Olly.md",
     "02.Campaign/Campaign/Player Characters/Thom.md",
+    "02.Campaign/Campaign/Sessions/Session Prep/140326 Session 1.md",
+    "02.Campaign/Campaign/Player Characters/AK.md",
+    "02.Campaign/Campaign/Player Characters/Hasson.md",
+    "01. World Almanac/Places/The Western Peninsula/Coill Deargadh.md",
     "01. World Almanac/Places/The Western Peninsula/Banríocht an Teallaigh.md",
     "01. World Almanac/Pantheons/The Seven/Aelthir.md",
     "01. World Almanac/Pantheons/The Seven/The Seven.md",
     "01. World Almanac/Pantheons/The Seven/Múirath.md",
     "01. World Almanac/Pantheons/The Seven/Nemainne.md",
-    "02.Campaign/Campaign/Sessions/Session Prep/140326 Session 1.md",
     "Src/z_Templates/Initiative Tracker.md",
     "01. World Almanac/Pantheons/The Seven/Osgaire.md",
     "01. World Almanac/Pantheons/The Seven/Cathmóra.md",
@@ -380,10 +436,6 @@
     "02.Campaign/Campaign/Sessions/Session Prep/Session1Encounters/02. Goblin Blind.md",
     "01. World Almanac/NPCs/Sildar Hallwinter.md",
     "01. World Almanac/Places/The Western Peninsula/Caer Ciarán.md",
-    "01. World Almanac/NPCs/Gundar Cnocín.md",
-    "01. World Almanac/Organisations/Mic na Seachtar.md",
-    "01. World Almanac/Beastiery/Goblinoids/Goblin.md",
-    "02.Campaign/Campaign/Sessions/Session Prep/Session1Encounters/01. Goblin Ambush.md",
     "Src/z_Assets/map-1.1-Cragmaw-Hideout-player.jpg"
   ]
 }
