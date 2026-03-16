@@ -333,6 +333,23 @@
             "timestamp": 5e-324,
             "order": ""
           }
+        },
+        {
+          "name": "A Hired Escort",
+          "description": "Four Adventures are Hired by Gundar Cnocín to Escort a Wagon of Mining Supplies from the Town of Deepwater to Caer Ciarán",
+          "date": {
+            "day": 13,
+            "month": 1,
+            "year": 366
+          },
+          "id": "ID_186af94b4b0a",
+          "note": "01. World Almanac/Places/The Western Peninsula/Deepwater.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_a8f8889b1bdb",

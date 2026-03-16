@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19db7f32f58d8b71",
+            "id": "ee86767466414b77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Campaign/Campaign/Player Characters/Bruno.md",
+                "file": "02.Campaign/Campaign/Sessions/Sessions/14-03-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bruno"
+              "title": "14-03-26"
+            }
+          },
+          {
+            "id": "d4a402a11dd3bf8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. World Almanac/NPCs/Sildar Hallwinter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sildar Hallwinter"
             }
           },
           {
@@ -36,73 +50,59 @@
             }
           },
           {
-            "id": "c0a4a5b4c4181ef8",
+            "id": "619e5a116badfd8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Campaign/Campaign/Sessions/Session Prep/140326 Session 1.md",
+                "file": "02.Campaign/Campaign/Player Characters/Dian Evenflame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "140326 Session 1"
+              "title": "Dian Evenflame"
             }
           },
           {
-            "id": "b9402f296933c901",
+            "id": "19db7f32f58d8b71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Src/z_Templates/Initiative Tracker.md",
+                "file": "02.Campaign/Campaign/Player Characters/Bruno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Initiative Tracker"
+              "title": "Bruno"
             }
           },
           {
-            "id": "f72c106be3ee0599",
+            "id": "66045f1d80f372f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Campaign/Campaign/Sessions/Sessions/14-03-26.md",
+                "file": "02.Campaign/Campaign/Player Characters/Grok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14-03-26"
+              "title": "Grok"
             }
           },
           {
-            "id": "7b21302d0a9e8f60",
+            "id": "965c6a7b8f2ef69c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Campaign/Campaign/Player Characters/Jonny.md",
+                "file": "02.Campaign/Campaign/Player Characters/Gruknar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jonny"
-            }
-          },
-          {
-            "id": "c1c041b4e13379c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. World Almanac/The Calendar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Calendar"
+              "title": "Gruknar"
             }
           }
         ],
@@ -159,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -292,6 +293,47 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "f33915d5bc86d60c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_a8f8889b1bdb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 14,
+                    "month": 1,
+                    "year": 366
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "hideEra": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_1b1b2b5809e9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "f4e7fad057b2856b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Campaign/Campaign/Sessions/Session Prep/140326 Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "140326 Session 1"
+            }
           }
         ],
         "currentTab": 5
@@ -349,34 +391,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "524df816e9d72ac2",
+  "active": "38c6cc98bf0e9a89",
   "lastOpenFiles": [
-    "02.Campaign/Campaign/Player Characters/Bruno.md",
-    "02.Campaign/Campaign/Sessions/Session Prep/140326 Session 1.md",
-    "02.Campaign/Campaign/Player Characters/Jonny.md",
     "02.Campaign/Campaign/Sessions/Sessions/14-03-26.md",
+    "02.Campaign/Campaign/Sessions/Session Prep/140326 Session 1.md",
+    "01. World Almanac/NPCs/Sildar Hallwinter.md",
+    "01. World Almanac/NPCs/Gundar Cnocín.md",
+    "02.Campaign/Campaign/Player Characters/Gruknar.md",
+    "02.Campaign/Campaign/Player Characters/Grok.md",
+    "02.Campaign/Campaign/Player Characters/Bruno.md",
+    "02.Campaign/Campaign/Player Characters/Dian Evenflame.md",
+    "02.Campaign/Campaign/Player Characters/Thom.md",
+    "Dian Evenflame.md",
+    "01. World Almanac/The Calendar.md",
+    "Src/z_Templates/Initiative Tracker.md",
+    "02.Campaign/Campaign/Player Characters/Jonny.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session1Encounters/06. Klarg's Cave.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session1Encounters/05. Twin Pools Cave.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session1Encounters/04. Goblin Den.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session1Encounters/03. Kennels.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session1Encounters/02. Goblin Blind.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session1Encounters/01. Goblin Ambush.md",
-    "02.Campaign/Campaign/Player Characters/Thom.md",
-    "Src/z_Templates/Initiative Tracker.md",
     "02.Campaign/Campaign/Player Characters/Hasson.md",
     "01. World Almanac/Pantheons/The Seven/Aelthir.md",
-    "01. World Almanac/The Calendar.md",
     "Src/z_Templates/Generic Stat Card.md",
     "Src/z_Templates/Character Sheet.md",
     "01. World Almanac/Pantheons/The Seven/Bríonna.md",
     "01. World Almanac/Places/The Western Peninsula/Coill Deargadh.md",
     "02.Campaign/Campaign/Player Characters/Olly.md",
-    "01. World Almanac/Places/The Western Peninsula/Banríocht an Teallaigh.md",
-    "01. World Almanac/Pantheons/The Seven/The Seven.md",
-    "01. World Almanac/Pantheons/The Seven/Múirath.md",
-    "01. World Almanac/Pantheons/The Seven/Nemainne.md",
-    "01. World Almanac/Pantheons/The Seven/Osgaire.md",
-    "01. World Almanac/Pantheons/The Seven/Cathmóra.md",
     "01. World Almanac/Places/The Western Peninsula",
     "Src/plugins/templater-obsidian/styles.css",
     "Src/plugins/templater-obsidian/manifest.json",

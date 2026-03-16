@@ -17,27 +17,33 @@
       "activeIndex": -1,
       "initiatives": {
         "Thom": 0,
-        "AK": 0,
-        "Jonny": 0,
-        "Hasson": 0,
+        "Bruno": 0,
+        "Dian": 0,
+        "Gruknar": 0,
+        "Grok": 0,
         "Goblin Squad": 0
       },
       "hp": {
         "Thom": {
-          "main": 45
+          "main": 12
         },
-        "AK": {
-          "main": 45
+        "Bruno": {
+          "main": 13
         },
-        "Jonny": {
-          "main": 45
+        "Dian": {
+          "main": 12
         },
-        "Hasson": {
-          "main": 45
+        "Gruknar": {
+          "main": 11
+        },
+        "Grok": {
+          "main": 15
         },
         "Goblin Squad": {
           "Goblin 1": 7,
-          "Goblin 2": 7
+          "Goblin 2": 7,
+          "Goblin 3": 7,
+          "Goblin 4": 7
         }
       },
       "round": 1,
