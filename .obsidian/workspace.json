@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Src/z_config/Token.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Token"
+              "title": "Outline of README"
             }
           },
           {
@@ -404,10 +404,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "45d60615a5494a6d",
+  "active": "8b34018c2d327dd7",
   "lastOpenFiles": [
-    "README.md",
+    "Src/z_config/Token.md",
     "02.Campaign/Campaign/Sessions/Sessions/14-03-26.md",
+    "README.md",
     "mkdocs-material/src/templates/assets/javascripts/integrations/search/worker/message/index.ts",
     "mkdocs-material/src/templates/assets/javascripts/integrations/search/worker/_/index.ts",
     "mkdocs-material/src/templates/assets/javascripts/integrations/search/worker/main/index.ts",
@@ -450,7 +451,6 @@
     "mkdocs-material/docs/blog/posts/excluding-content-from-search.md",
     "mkdocs-material/docs/blog/posts/blog-support-just-landed.md",
     "mkdocs-material/docs/blog/posts/chinese-search-support.md",
-    "mkdocs-material/docs/blog/posts/adding-a-badge-to-your-project.md",
-    "mkdocs-material/docs/insiders/changelog/index.md"
+    "mkdocs-material/docs/blog/posts/adding-a-badge-to-your-project.md"
   ]
 }
