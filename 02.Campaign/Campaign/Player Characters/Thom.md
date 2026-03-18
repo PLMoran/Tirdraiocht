@@ -1,5 +1,5 @@
 ---
-level: 1
+level: 2
 proficiency_bonus: 2
 ---
 ```badges
@@ -19,9 +19,9 @@ items:
 ```badges
 items:
   - label: HP
-    value: '12'
+    value: '21'
   - label: AC
-    value: '{{ add 10 (modifier abilities.dexterity) }}'
+    value: '13'
   - label: Initiative
     value: '+{{ modifier abilities.dexterity }}'
   - label: Spell Save (to attack)

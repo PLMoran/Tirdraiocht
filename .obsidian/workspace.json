@@ -6,6 +6,7 @@
       {
         "id": "15f4b5545b659ea9",
         "type": "tabs",
+        "dimension": 55.08637236084453,
         "children": [
           {
             "id": "ee86767466414b77",
@@ -22,20 +23,6 @@
             }
           },
           {
-            "id": "524df816e9d72ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Campaign/Campaign/Player Characters/Thom.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thom"
-            }
-          },
-          {
             "id": "619e5a116badfd8e",
             "type": "leaf",
             "state": {
@@ -47,6 +34,20 @@
               },
               "icon": "lucide-file",
               "title": "Dian Evenflame"
+            }
+          },
+          {
+            "id": "3e00e5abd5df622c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Src/z_Templates/Character Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character Sheet"
             }
           },
           {
@@ -111,44 +112,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "02.Campaign/Campaign/Player Characters/Thom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "07e9744cb39e7f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mkdocs.yml.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mkdocs.yml"
-            }
-          },
-          {
-            "id": "45d60615a5494a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Src/z_config/Token.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Token"
+              "title": "Thom"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
+      },
+      {
+        "id": "ab98c22227252774",
+        "type": "tabs",
+        "dimension": 44.913627639155465,
+        "children": [
+          {
+            "id": "524df816e9d72ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.Campaign/Campaign/Player Characters/Thom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thom"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +156,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "826f34fdef56d209",
+            "id": "813d4bd12eab9496",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -283,13 +277,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkdocs.yml.md",
+                "file": "02.Campaign/Campaign/Player Characters/Thom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mkdocs.yml"
+              "title": "Outline of Thom"
             }
           },
           {
@@ -396,16 +390,6 @@
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
             }
-          },
-          {
-            "id": "faa69b11ae2f5789",
-            "type": "leaf",
-            "state": {
-              "type": "soundscapes-react-view",
-              "state": {},
-              "icon": "music",
-              "title": "Soundscapes: My Music"
-            }
           }
         ]
       }
@@ -432,14 +416,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "07e9744cb39e7f10",
+  "active": "38c6cc98bf0e9a89",
   "lastOpenFiles": [
-    "docs/index.md",
-    "mkdocs.yml.md",
+    "02.Campaign/Campaign/Player Characters/Dian Evenflame.md",
+    "02.Campaign/Campaign/Player Characters/Thom.md",
+    "Src/z_Templates/Character Sheet.md",
+    "02.Campaign/Campaign/Player Characters/Gruknar.md",
+    "02.Campaign/Campaign/Player Characters/Grok.md",
+    "Src/z_config/Token.md",
     "README.md",
+    "mkdocs.yml.md",
+    "docs/index.md",
     "docs",
     "mkdocs.yml",
-    "Src/z_config/Token.md",
     "02.Campaign/Campaign/Sessions/Sessions/14-03-26.md",
     "mkdocs-material/src/templates/assets/javascripts/integrations/search/worker/message/index.ts",
     "mkdocs-material/src/templates/assets/javascripts/integrations/search/worker/_/index.ts",
@@ -474,11 +463,6 @@
     "mkdocs-material/docs/blog/posts/the-past-present-and-future.md",
     "mkdocs-material/docs/blog/posts/sunsetting-gitter.md",
     "mkdocs-material/docs/blog/posts/search-better-faster-smaller.md",
-    "mkdocs-material/docs/blog/posts/mkdocs-2.0.md",
-    "mkdocs-material/docs/blog/posts/insiders-now-free-for-everyone.md",
-    "mkdocs-material/docs/blog/posts/goodbye-github-discussions.md",
-    "mkdocs-material/docs/blog/posts/git-sparse-checkout.md",
-    "mkdocs-material/docs/blog/posts/excluding-content-from-search.md",
-    "mkdocs-material/docs/blog/posts/blog-support-just-landed.md"
+    "mkdocs-material/docs/blog/posts/mkdocs-2.0.md"
   ]
 }
