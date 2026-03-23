@@ -13,9 +13,9 @@
     "patch": 3
   },
   "paths": [
-    "/"
+    "01. World Almanac/Bestiery"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": false,
   "tryToRenderLinks": true,
   "debug": false,

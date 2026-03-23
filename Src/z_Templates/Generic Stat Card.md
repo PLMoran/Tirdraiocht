@@ -1,4 +1,4 @@
-> [!infobox|left]+ Collapsible Infobox
+
 > # Name
 > ![[img.png| Display Text]]
 > ###### Stats
@@ -11,14 +11,17 @@
 > ##### Skills
 > | Str | Dex | Con |
 > | ---- | ---- |---- |
-> | 8(-1)| 14(+2)| 10(+0)|
+> |10(+0)|10(+0)| 10(+0)|
 > 
 > | Int | Wis | Cha |
 > | ---- | ---- |---- |
-> | 10(+0)| 8(-1)| 8(-1)|
+> | 10(+0)|10(+0)|10(+0)|
 > 
 > ##### Actions
->
+>| Weapon | Style |To Hit| Range | Damage|
+> | ---- | ---- |----|----|----|
+>|Weapon | Melee Weapon Attack |+4|  reach 5 ft one target |2d8 + 2 slashing damage |
+>|Weapon | Ranged Weapon Attack | +4 | range 30/120 ft one target| 2d6 + 2 piercing damage |
 > ###### Other
 > | Type |  Stat |
 > | ---- | ---- |
@@ -28,5 +31,6 @@
 > | Languages | |
 > | Proficiency Bonus | |
 > ##### Traits
-> 
+
+ 
 
