@@ -8,11 +8,11 @@ Date: 14-03-26
 
 [[Dian Evenflame]]: Human Fighter, Level 1
 
-[[His Dread Excellency, Gruknar, Earl of Bumford: Orc Warlock, Level 1
+[[Gruknar | His Dread Excellency, Gruknar, Earl of Bumford]]: Orc Warlock, Level 1
 
-Bruno: Goliath Paladin]], Level 1
+[[Bruno]]: Goliath Paladin]], Level 1
 
-Grok: Orc Barbarian, Level 1
+[[Grok]]: Orc Barbarian, Level 1
 
 ## Events
 
@@ -79,28 +79,14 @@ The party retire to the tavern, purchase food and drink for the evening and reti
 ## Key Learnings 
 
 - Black Spider
+	- Who is the Black Spider?
     
-
-- Who is the Black Spider?
-    
-
 - Echoing Hollows
-    
-
-- An almost mythological site, if real it could hold huge riches for whoever controls it.
-    
-
+    - An almost mythological site, if real it could hold huge riches for whoever controls it.
 - Iarnchroi
-    
-
-- A legendary metal, it is believed some of the most magical and oldest weapons are made of this rare metal.
-    
-
+	- A legendary metal, it is believed some of the most magical and oldest weapons are made of this rare metal.
 - Gundar's location
-    
-
-- The party believes that Gundar has been moved to Cragmaw Castle, but they may learn more information in Caer Ciarán about where that is.
-    
+	- The party believes that Gundar has been moved to Cragmaw Castle, but they may learn more information in Caer Ciarán about where that is.
 
 ## Who Did They Meet? 
 
@@ -108,7 +94,7 @@ Sildar. A half-elven human warrior, about 50 years old. He was hired by Gundar t
 
 Linene. The Owner of the Caer Ciaran branch of Lionshield Coster, a trading company across the Empire and its frontier towns.
 
-Barthen. The Owner of Barthens goods, a General Merchants in the Mining Town of Caer Ciaran.
+Barthen. The Owner of Barthen's goods, a General Merchants in the Mining Town of Caer Ciaran.
 
 ## Items Of Importance 
 
