@@ -75,9 +75,9 @@ items:
 
 Thom is an adolescent Dragonborn, born in the community of [[Banríocht an Teallaigh]]. At about 8 years of age, in years of the Dragonkin, they are more than capable of looking after themselves, but still have much to learn about the wider world, and themselves.
 
-Having spent her young life under the protective glow of the her Community, Family, and especially her mother [name?], the Matriarch of the nest. Thom is beginning to feel the expectation of the mantle being presented to her, to one day replace her Mother, to be the spiritual leader of her community.
+Having spent her young life under the protective glow of the her Community, Family, and especially her mother Jaed, the Matriarch of the nest. Thom is beginning to feel the expectation of the mantle being presented to her, to one day replace her Mother, to be the spiritual leader of her community.
 
-[Mother] has imparted on Thom the wisdom of their people, respect for the natural land, and its animals great and small, how to survive of the bounty that the world has to offer. Thom loves all animals, with the exception of dogs, [why?], and has nurtured their innate abilities to communicate and care for the beasts and birds.
+[Mother] has imparted on Thom the wisdom of their people, respect for the natural land, and its animals great and small, how to survive of the bounty that the world has to offer. Thom loves all animals, with the exception of dogs, and has nurtured their innate abilities to communicate and care for the beasts and birds.
 
 Thom has explored deep in to [[Coill Deargadh]] many times and is as sure of themselves amongst the trees and streams as she is in open ground amongst the hills and valleys surrounding her home.
 
