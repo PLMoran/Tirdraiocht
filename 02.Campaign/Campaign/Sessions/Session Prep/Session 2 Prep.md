@@ -18,3 +18,7 @@ _**The Stonehill Inn.**_ If the players aren’t sure what their characters sho
 _**Redbrand Ruffians.**_ Sooner or later, the adventurers run into the thugs who run Phandalin. All you need to do is choose when the ruffians appear. After the characters have had a chance to visit several locations in town and talk to the townsfolk, they might decide to go looking for the Redbrands. When they do, run the “[Redbrand Ruffians](https://www.dndbeyond.com/sources/dnd/lmop/phandalin#RedbrandRuffians)” encounter. Alternatively, if the characters are reluctant to seek out the ruffians, the Redbrands can come looking for them at a time of your choosing.
 
 _**Finding Cragmaw Castle.**_ The characters might want to seek out Cragmaw Castle to find and rescue Gundren Rockseeker. Most of the townsfolk are preoccupied with the Redbrands, and no one in town knows the location of Cragmaw Castle. Qelline Alderleaf, Sildar Hallwinter, and Halia Thornton can offer suggestions on how the party might find someone who knows the location.
+
+
+
+
