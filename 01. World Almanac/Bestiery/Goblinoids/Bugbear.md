@@ -1,34 +1,50 @@
-> [!infobox|left]+ Collapsible Infobox
-> # Bugbear
-> ![[Src/z_Assets/Bugbear]]
-> ###### Stats
-> | Type |  Stat |
-> | ---- | ---- |
-> | AC| 16 |
-> | HP| 27|
-> | Speed | 30ft |
-> 
-> ##### Skills
-> | Str | Dex | Con |
-> | ---- | ---- |---- |
-> | 15(+2)| 14(+2)| 13(+1)|
-> 
-> | Int | Wis | Cha |
-> | ---- | ---- |---- |
-> | 8(-1)| 11(+0)| 9(-1)|
-> 
-> #### Actions
->_**Morningstar.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 11 (2d8 + 2) piercing damage.
-_**Javelin.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
-> ###### Other
-> | Type |  Stat |
-> | ---- | ---- |
-> | Stealth|+6  |
-> |Survival|+2|
-> | Darkvision | 60ft |
-> | Passive perception |10  |
-> | Languages | Common, Goblin|
-> | Proficiency Bonus | +2|
-> ##### Traits
-> _**Brute.**_ A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).  
-_**Surprise Attack.**_ If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
+```statblock
+name: Bugbear
+source: 5e SRD
+size: Medium
+type: humanoid
+subtype: goblinoid
+alignment: chaotic evil
+ac: 16
+hp: 27
+hit_dice: 5d8 + 4
+speed: 30 ft.
+stats:
+  - 15
+  - 14
+  - 13
+  - 8
+  - 11
+  - 9
+skillsaves:
+  - stealth: 6
+  - survival: 2
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: darkvision 60 ft., passive Perception 10
+languages: Common, Goblin
+cr: "1"
+bestiary: true
+traits:
+  - name: Brute
+    desc: A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).
+    attack_bonus: 0
+  - name: Surprise Attack
+    desc: If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
+    attack_bonus: 0
+    damage_dice: 2d6
+actions:
+  - name: Morningstar
+    desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage."
+    attack_bonus: 4
+    damage_dice: 2d8
+    damage_bonus: 2
+  - name: Javelin
+    desc: "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range."
+    attack_bonus: 4
+    damage_dice: 2d6
+    damage_bonus: 2
+
+```
