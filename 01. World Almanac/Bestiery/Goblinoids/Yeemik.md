@@ -1,35 +1,45 @@
-> [!infobox|left]+ Collapsible Infobox
-> # Yeemik
-> ![[Src/z_Assets/Goblin|Yeemik]]
-> ###### Stats
-> | Type |  Stat |
-> | ---- | ---- |
-> | AC| 15 |
-> | HP| 12 |
-> | Speed | 30ft |
-> 
-> ##### Skills
-> | Str | Dex | Con |
-> | ---- | ---- |---- |
-> | 8(-1) | 14(+2) | 10(+0) |
-> 
-> | Int | Wis | Cha |
-> | ---- | ---- |---- |
-> | 10(+) | 8(-1) | 8(-1) |
-> 
-> #### Actions
->
-**Scimitar.**  Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. 
-**Shortbow.** Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-> ###### Other
-> | Type |  Stat |
-> | ---- | ---- |
-> | Stealth| +4 |
-> | Darkvision | 60ft |
-> | Passive perception | 9 |
-> | Languages | Common, Goblin|
-> | Proficiency Bonus | +2|
+```statblock
+name: Yeemik
+source: 5e SRD
+size: Small
+type: humanoid
+subtype: goblinoid
+alignment: neutral evil
+ac: 15
+hp: 12
+hit_dice: 2d6
+speed: 30 ft.
+stats:
+  - 8
+  - 14
+  - 10
+  - 10
+  - 8
+  - 8
+skillsaves:
+  - stealth: 6
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: darkvision 60 ft., passive Perception 9
+languages: Common, Goblin
+cr: 1/4
+bestiary: true
+traits:
+  - name: Nimble Escape
+    desc: The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+    attack_bonus: 0
+actions:
+  - name: Scimitar
+    desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+    attack_bonus: 4
+    damage_dice: 1d6
+    damage_bonus: 2
+  - name: Shortbow
+    desc: "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    attack_bonus: 4
+    damage_dice: 1d6
+    damage_bonus: 2
 
-
-
-
+```
