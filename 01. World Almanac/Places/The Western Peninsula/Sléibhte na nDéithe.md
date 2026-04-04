@@ -5,7 +5,7 @@ Beanna bhFlaitheas, is the predominant mountain in the range.
 
 Aelthirs Summit is the seat of the Aelthir, alongside him sits Osgaire, God of dreams.
 Together the oversee both the visible and invisible realms of sovereignty.
-Alongisde, them Nemainne spins fate from flax grown in Brionna's fields
+Alongisde, them Nemainne plays the song of fate on her Golden Harp.
 
 Deep in the heart of the mountain lies the Forge of Riarann. Here in the fires Riarann crafted tools and weapons for his fellow gods, and the first children.The forge is quenced by Abhann Mór, the Great River that springs from the heart of the mountain.
 
