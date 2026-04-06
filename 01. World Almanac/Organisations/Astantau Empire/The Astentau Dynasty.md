@@ -42,13 +42,28 @@ Torren set about the great task of resetting the Calendar. He set the first year
 King Torren ruled to age 95
 
 Year 201
-- **Queen Aelira** – 33 years
+**Queen Aelira** – 33 years
+
+Year 234
     
-- **King Cadan III** – 30 years
-    
-- **Queen Serayne** – 28 years
-    
-- **Current ruler (age 30)** – recently crowned
+**King Cadan III – 30 years
+
+Year 264
+**Queen Serayne** – 28 years
+
+Year 292
+**King Torren II** - 25 years
+
+Year 327
+**King Torren III** - 8 Years
+
+Year 337
+**Queen Muriel** - 18 years
+A queen Devoted to the worship of the All-Father. She had a vision soon after coming to her throne that her as yet to be born son would be the greatest King to rule the empire. She was convinced that he was to be the great Uniter, the All-Father incarnate, to bring his rule over all the lands. She Abdicated her throne when Ulraf was just 17 years old, making him the youngest King to ever take the Throne.
+
+Year 353
+**King Ulraf II** crowned aged 17 after the abdication of his Mother, Queen Muriel.
+The Young King has been raised at his mother knee to believe he will bring peace to all the lands of the continent. expanding and securing the Empires borders from the Shining Coast to the lands beyond Sleibhte na nDeithe!
 
 
 
