@@ -4,7 +4,8 @@ There are 5 Special Days that make up the extra 5 days of the year. an extra one
 The Special Days are not part of the months they occur in, instead, the calendar "Pauses" for the Feast day and then continues after.  
 4 Seasons Each of 3 Months,  
 4 Weeks in a Month,  
-7 Days in a Week.  
+7 Days in a Week. 
+The Elves and the Old ones generally did not follow the count of years. The Imperial Year 366 is used as a standardised measure in the counting of the year. 
 
 The Special Days are:
 - New Years Eve, New Years Day, Oíche an Chasadh and Lá an Tosaigh
