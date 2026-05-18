@@ -7,9 +7,9 @@ As you crest a low ridge, you spy the crumbling ruins of an old watchtower stand
 
 The ruins are currently occupied by a mage who is busy exploring the site in the hope of gleaning arcane lore left behind by its builders. The characters can enter the site from any direction, either following old footpaths or scrambling up the slope and finding a gap in the surrounding walls of rubble.
 
-Twelve [zombies](https://www.dndbeyond.com/monsters/17077-zombie) lurk inside the crumbled shell of the old watchtower and can’t be seen from outside. However, any character with a passive Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) score of 10 or higher smells a deathly odor wafting from the tower’s direction. When characters approach the tower or the tent, the zombies shamble out of the tower.
+Twelve [[zombie|zombies]] lurk inside the crumbled shell of the old watchtower and can’t be seen from outside. However, any character with a passive Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) score of 10 or higher smells a deathly odor wafting from the tower’s direction. When characters approach the tower or the tent, the zombies shamble out of the tower.
 
-If a battle erupts, Hamun Kost, the [evil mage](https://www.dndbeyond.com/monsters/22021-evil-mage), emerges from his tent and asks, “What is the meaning of this?”
+If a battle erupts, Hamun Kost, the [[evil mage]], emerges from his tent and asks, “What is the meaning of this?”
 
 Kost is a stout, red-robed figure with sallow skin, a shaved scalp, and a black tattoo on his forehead. A character who succeeds on a DC 10 Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check recognizes Kost’s tattoo as a necromantic symbol. A successful DC 10 Intelligence ([History](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check verifies the garb as that usual for Thay, a land far to the east where wizards pattern their flesh with tattoos. The tattoo on the head represents a wizard’s school of magic. Kost’s school is necromancy.
 
