@@ -1,4 +1,4 @@
-Built thousands of years ago by a long-vanished empire, Old Owl Well is a ruined watchtower that now consists of little more than a few crumbling walls and the broken stump of a tower. In the tower’s courtyard stands an old well that still delivers clean, fresh water. Old Owl Well lies in the wild and rugged hills south of the Triboar Trail. The site is relatively easy to find, and any NPC in Phandalin can provide directions to the ruins.
+Built thousands of years ago by a long-vanished empire, Old Owl Well is a ruined watchtower that now consists of little more than a few crumbling walls and the broken stump of a tower. In the tower’s courtyard stands an old well that still delivers clean, fresh water. Old Owl Well lies in the wild and rugged hills south of the [[Caer Ciarán]]. The site is relatively easy to find, and any NPC in Caer Ciarán can provide directions to the ruins.
 
 Recently, prospectors in the area have noted that someone has set up a campsite at Old Owl Well, and that undead guardians have been posted to keep intruders out.
 
