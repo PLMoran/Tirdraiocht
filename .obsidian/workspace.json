@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e145a4626592fba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. World Almanac/Bestiery/Undead/Zombie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zombie"
-            }
-          },
-          {
-            "id": "b68a1f02945649cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Campaign/Campaign/Sessions/Session Prep/Session 2/Quest. Old Owl Trouble.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quest. Old Owl Trouble"
-            }
-          },
-          {
             "id": "e169c62fadaf6235",
             "type": "leaf",
             "state": {
@@ -48,93 +20,8 @@
               "icon": "lucide-file",
               "title": "01. Starting in Caer Ciarán"
             }
-          },
-          {
-            "id": "78fb56add6850e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Src/z_Assets/Arcane Condensate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arcane Condensate"
-            }
-          },
-          {
-            "id": "af23a2e785a30791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. World Almanac/Arcane Condensate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arcane Condensate"
-            }
-          },
-          {
-            "id": "ae867872f48413b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. World Almanac/Arcane Condensate (DM).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arcane Condensate (DM)"
-            }
-          },
-          {
-            "id": "c80505e345ff214e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Src/z_Assets/Arcane Condensate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arcane Condensate"
-            }
-          },
-          {
-            "id": "8fb6c13b70c5a984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. World Almanac/Bestiery/Humanoid/Orc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orc"
-            }
-          },
-          {
-            "id": "022ee1bd23d3ab91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Campaign/Campaign/Sessions/Session Prep/Session 1/140326 Session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "140326 Session 1"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -417,26 +304,28 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e169c62fadaf6235",
+  "active": "38c6cc98bf0e9a89",
   "lastOpenFiles": [
+    "02.Campaign/Campaign/Sessions/Session Prep/Session 2/Redbrand Ruffians.md",
+    "02.Campaign/Campaign/Sessions/Session Prep/Session 2/01. Starting in Caer Ciarán.md",
+    "Untitled 1.md",
+    "02.Campaign/Campaign/Sessions/Session Prep/Session 1/140326 Session 1.md",
+    "02.Campaign/Campaign/Sessions/Session Prep/Session 2/Quest. Banshee's Bargain.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session 2/Quest. Old Owl Trouble.md",
-    "01. World Almanac/Arcane Condensate.md",
+    "01. World Almanac/Bestiery/Humanoid/Orc.md",
+    "Src/z_Assets/Arcane Condensate.md",
     "01. World Almanac/Arcane Condensate (DM).md",
+    "01. World Almanac/Arcane Condensate.md",
     "Pasted image 20260519203745.png",
     "Pasted image 20260519203554.png",
     "Pasted image 20260519203733.png",
     "Pasted image 20260519202550.png",
-    "Src/z_Assets/Arcane Condensate.md",
     "01. World Almanac/Bestiery/Humanoid/Bandit.md",
     "Untitled.md",
-    "02.Campaign/Campaign/Sessions/Session Prep/Session 2/Quest. Banshee's Bargain.md",
     "01. World Almanac/Places/The Western Peninsula/Caer Ciarán.md",
-    "02.Campaign/Campaign/Sessions/Session Prep/Session 2/01. Starting in Caer Ciarán.md",
     "zombies.md",
     "01. World Almanac/Bestiery/Undead/Zombie.md",
     "01. World Almanac/Bestiery/Humanoid/Evil Mage.md",
-    "01. World Almanac/Bestiery/Humanoid/Orc.md",
-    "02.Campaign/Campaign/Sessions/Session Prep/Session 1/140326 Session 1.md",
     "01. World Almanac/Places/The Western Peninsula/Baile Coinin.md",
     "01. World Almanac/Bestiery/Goblinoids/Hobgoblin.md",
     "01. World Almanac/Bestiery/Beast/Stirge.md",
@@ -447,7 +336,6 @@
     "01. World Almanac/Places/The Western Peninsula/Deepwater.md",
     "01. World Almanac/The Solar Calendar.md",
     "01. World Almanac/Organisations/Astantau Empire/The Astentau Dynasty.md",
-    "01. World Almanac/Bestiery/Monstrosity/Owlbear.md",
     "01. World Almanac/Bestiery/Monstrosity",
     "01. World Almanac/Bestiery/Humanoid",
     "Untitled",
