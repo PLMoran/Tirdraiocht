@@ -1,3 +1,6 @@
+[[Sister Garaele]] is a gnomish woman, who looks to be about 70 or 80 years old. Middle aged in gnomish years. She stands about 3 and a half foot tall.
+
+
 [[Lios Bearna]] is an abandoned town about 15 miles south of [[Caer Ciarán]] on the road to [[Baile Coinin]].
 
 On the Road the party may have a battle encounter
