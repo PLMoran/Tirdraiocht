@@ -17,7 +17,7 @@ If any character attempts to talk to Kost, even by calling out a greeting or ans
 
 Kost stays tight-lipped about the reason for his presence in the region. He is, however, willing to provide information the party needs if it does a favor for him. If the characters give Kost some indication of what they want, he shares one or both of these requests:
 
-- He wants the orcs at Wyvern Tor removed, since they have scouted out his camp and seem inclined to cause trouble.
+- He wants the orcs at [[Túr an Gabhan]] removed, since they have scouted out his camp and seem inclined to cause trouble.
 - He wants to ask a question of Agatha the banshee: “What is the name of the wizard who built the tower at Old Owl Well?” Kost won’t risk the banshee’s anger, but the characters could ask the question for him. (Agatha knows the name: Arthindol.)
 
 #### [](https://www.dndbeyond.com/sources/dnd/lmop/the-spiders-web#OldOwlWellTreasure)Treasure
