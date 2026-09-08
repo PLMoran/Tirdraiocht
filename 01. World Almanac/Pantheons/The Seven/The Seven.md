@@ -4,7 +4,7 @@ But the stories go, that the great Mountain, Sléibhte na nDéithe.
 
 Bríonna: Goddess of Birth and Fertility
 
-Nemainne: Goddess of the Fates
+Neimín: Goddess of the Fates
 
 Cathmórra: Goddess of Death, Battle and the final quiet.
 
@@ -22,4 +22,4 @@ At its base, **Riarann the Smith** stokes the eternal forge— ploughs for the f
 
 From the mountain’s heart flows the Abhann Mór, its source sacred, its path winding. **Múirath**, god of the sea, swims its length, carrying mountain whispers to the ocean’s roar.
 
-High above, **Nemainne** plays the song of life on her Golden Harp, she plucks the chords of birth and death, a song whoes harmonies weave together the fate of all. And when night falls, **Osgáire** cloaks the world in dreams, his clouds drifting like riddles across the moon.
+High above, **Neimín** plays the song of life on her Golden Harp, she plucks the chords of birth and death, a song whoes harmonies weave together the fate of all. And when night falls, **Osgáire** cloaks the world in dreams, his clouds drifting like riddles across the moon.

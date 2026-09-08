@@ -59,3 +59,5 @@ If the characters are respectful and polite, Agatha can be persuaded to help the
 If the characters ask about Bowgentle’s spellbook, Agatha tells them that she traded the book to a necromancer named Tsernoth from the city of Iriaebor more than a hundred years ago. She does not know what became of the book afterward. Her answer is truthful, and it is all the information Sister Garaele needs for the Harpers to resume their search.
 
 The characters might instead choose to ask Agatha about something else—for example, the location of Cragmaw Castle, the location of Wave Echo Cave, the identity of the Black Spider, or Hamun Kost’s question about [Old Owl Well](https://www.dndbeyond.com/sources/dnd/lmop/the-spiders-web#OldOwlWell) (see that section). Agatha is well informed and a capable diviner, so she can answer almost any single question pertaining to the adventure that the characters think to ask. However, the banshee answers only one question, so the characters should choose it carefully.
+
+The lost manuscript is deep in the heart of Sleibh na nDeithe, the Mountains of the Gods. Where the source of the great river quenches the fires of RIarann.+

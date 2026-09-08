@@ -14,4 +14,4 @@ If the Redbrands confront the players in the street:
 One of the ruffians spits on the ground. “Time for you to move on, strangers. Give us your stuff, and be on your way.”
 
 Continue the insults as longs as requried, after a round or two, if the party do not attack, the Ruffians do.
-![[01. Redbrand Ruffians]]
+![[01. Old Owl Trouble]]
