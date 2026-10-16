@@ -335,61 +335,6 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          },
-          {
-            "id": "f33915d5bc86d60c",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_a8f8889b1bdb",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 14,
-                    "month": 1,
-                    "year": 366
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "hideEra": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_1b1b2b5809e9"
-              },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
-            }
-          },
-          {
-            "id": "94e9362c9f46a9cb",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_08a878790aab",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 14,
-                    "month": 1,
-                    "year": 366
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_5b4a9b18287b"
-              },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
-            }
           }
         ],
         "currentTab": 5
@@ -432,7 +377,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "31818f82514fdb3b",
+  "active": "38c6cc98bf0e9a89",
   "lastOpenFiles": [
     "02.Campaign/Campaign/Sessions/Session Prep/Session 3/03. Return To Caer Ciaran.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session 2/02. Starting in Caer Ciarán.md",
