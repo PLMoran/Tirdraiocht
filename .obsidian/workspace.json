@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Campaign/Campaign/Sessions/Session Prep/Session 3/03. Return To Caer Ciaran.md",
+                "file": "02.Campaign/Campaign/Sessions/Session Prep/Session 2/Redbrand Ruffians.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -432,10 +432,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e4ea5add5b7b5468",
+  "active": "31818f82514fdb3b",
   "lastOpenFiles": [
-    "02.Campaign/Campaign/Sessions/Session Prep/Session 2/02. Starting in Caer Ciarán.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session 3/03. Return To Caer Ciaran.md",
+    "02.Campaign/Campaign/Sessions/Session Prep/Session 2/02. Starting in Caer Ciarán.md",
     "02.Campaign/Campaign/Sessions/Session Prep/Session 2/Redbrand Ruffians.md",
     "02.Campaign/Campaign/Sessions/Sessions/Session Two.md",
     "02.Campaign/Campaign/Sessions/Sessions/Session One.md",
